@@ -13,7 +13,8 @@
         };
     var map = new daum.maps.Map(mapContainer, mapOption); // 지도를 생성합니다
 
-    // 마커를 표시할 위치와 title 객체 배열입니다
+    // 마커를 표시할 위치와 title 객체 
+    //http://f.goodkiss.co.kr/naver/navermap.asp
     var positions = [
         {
               place_url: 'http://imqa.io',
