@@ -23,7 +23,7 @@
               address_name: '★★★★☆',
               phone: '차용빈 (10,000원)',
               latlng: new daum.maps.LatLng(37.569729, 126.974894),
-              type: 'L'
+              type: 'H'
             },
             {
             place_url: 'https://store.naver.com/restaurants/detail?id=20867980',
@@ -32,7 +32,7 @@
             address_name: '★★★★☆',
             phone: '순대국 (7,000원)',
             latlng: new daum.maps.LatLng(37.5712150,126.9747506),
-            type: 'L'
+            type: 'LD'
         },
         {
         place_url: 'https://store.naver.com/restaurants/detail?id=21037935',
@@ -57,7 +57,7 @@
             address_name: '★★★★★',
             phone: '부대찌개 (7,000원), 생삽겹살 (7,000원)',
             latlng: new daum.maps.LatLng(37.5658778,126.9725607),
-            type: 'D'
+            type: 'LD'
         },{
             place_url: 'https://store.naver.com/restaurants/detail?id=11666936',
             place_name: '감나무집',
@@ -119,6 +119,10 @@
 
         if (positions[i].type == 'D') {
             imageSrc = '/images/markerStar_g_b.png';
+        } else if (positions[i].type == 'LD') {
+            imageSrc = '/images/markerStar_g_a.png';
+        } else if (positions[i].type == 'H') {
+            imageSrc = '/images/markerStar_g_imqa.png';
         } else {
             imageSrc = '/images/markerStar_g_b_g.png';
         }
