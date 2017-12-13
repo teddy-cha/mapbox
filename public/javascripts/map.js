@@ -119,6 +119,8 @@
 
         if (positions[i].type == 'D') {
             imageSrc = '/images/markerStar_g_b.png';
+        } else {
+            imageSrc = '/images/markerStar_g_b_g.png';
         }
 
         // 마커 이미지를 생성합니다
