@@ -94,7 +94,7 @@
             place_url: 'https://store.naver.com/restaurants/detail?id=17931775',
             place_name: '우리집',
             road_address_name: '서울 종로구 계동길 17',
-            address_name: '★★★★★',
+            address_name: '★★★★☆',
             phone: '닭갈비 (7,000원 ~ 10,000원)',
             latlng: new daum.maps.LatLng(37.5781114, 126.9866220),
             type: 'L'
@@ -102,9 +102,33 @@
             place_url: 'https://store.naver.com/restaurants/detail?id=37591684',
             place_name: '강촌 숯불닭갈비',
             road_address_name: '서울 종로구 종로9길 18',
-            address_name: '★★★★★',
+            address_name: '★★★★☆',
             phone: '숯불닭갈비 (11,000원)',
             latlng: new daum.maps.LatLng(37.5710030, 126.9844390),
+            type: 'D'
+        },{
+            place_url: 'https://store.naver.com/restaurants/detail?id=12045321',
+            place_name: '삼성빨간양념',
+            road_address_name: '서울 중구 남대문로1길 39',
+            address_name: '★★★★☆',
+            phone: '생고기 주물럭 (13,000원)',
+            latlng: new daum.maps.LatLng(37.5628329, 126.9772255),
+            type: 'LD'
+        },{
+            place_url: 'https://store.naver.com/restaurants/detail?id=19878241',
+            place_name: '삼각정',
+            road_address_name: '서울 용산구 한강대로 153-1',
+            address_name: '★★★★★',
+            phone: '모소리 (14,000원)',
+            latlng: new daum.maps.LatLng(37.5330246, 126.9712197),
+            type: 'D'
+        },{
+            place_url: 'https://store.naver.com/restaurants/detail?id=19873209',
+            place_name: '영덕식당',
+            road_address_name: '서울 용산구 한강대로62나길 14',
+            address_name: '★★★★★',
+            phone: '막회 (19,000원)',
+            latlng: new daum.maps.LatLng(37.5343135, 126.9744983),
             type: 'D'
         }
     
