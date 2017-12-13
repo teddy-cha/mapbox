@@ -101,7 +101,7 @@
             road_address_name: '서울 종로구 종로9길 18',
             address_name: '★★★★★',
             phone: '숯불닭갈비 (11,000원)',
-            latlng: new daum.maps.LatLng(37.5781114, 126.9866220)
+            latlng: new daum.maps.LatLng(37.5710030, 126.9844390)
         }
     
     ];
