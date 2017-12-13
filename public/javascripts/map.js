@@ -120,7 +120,7 @@
         if (positions[i].type == 'D') {
             imageSrc = '/images/markerStar_g_b.png';
         } else if (positions[i].type == 'LD') {
-            imageSrc = '/images/markerStar_g_a.png';
+            imageSrc = '/images/markerStar_g_b_a.png';
         } else if (positions[i].type == 'H') {
             imageSrc = '/images/markerStar_g_imqa.png';
         } else {
