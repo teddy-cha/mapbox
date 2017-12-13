@@ -81,6 +81,27 @@
             address_name: '★★★★★',
             phone: '갈매기살 (12,000원)',
             latlng: new daum.maps.LatLng(37.5730083,126.9910887)
+        },{
+            place_url: 'https://store.naver.com/restaurants/detail?id=17931775',
+            place_name: '우리집',
+            road_address_name: '서울 종로구 계동길 17',
+            address_name: '★★★★★',
+            phone: '닭갈비 (7,000원 ~ 10,000원)',
+            latlng: new daum.maps.LatLng(37.5781114, 126.9866220)
+        },{
+            place_url: 'https://store.naver.com/restaurants/detail?id=17931775',
+            place_name: '우리집',
+            road_address_name: '서울 종로구 계동길 17',
+            address_name: '★★★★★',
+            phone: '닭갈비 (7,000원 ~ 10,000원)',
+            latlng: new daum.maps.LatLng(37.5781114, 126.9866220)
+        },{
+            place_url: 'https://store.naver.com/restaurants/detail?id=37591684',
+            place_name: '강촌 숯불닭갈비',
+            road_address_name: '서울 종로구 종로9길 18',
+            address_name: '★★★★★',
+            phone: '숯불닭갈비 (11,000원)',
+            latlng: new daum.maps.LatLng(37.5781114, 126.9866220)
         }
     
     ];
